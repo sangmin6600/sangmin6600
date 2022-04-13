@@ -5,18 +5,22 @@
 
 <br/> 
 
-## Hi there 👋
+## Hi There  👋
 
+<a href="https://github.com/sangmin6600" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:kimsangmin9708@gmail.com" target="_blank">
+  <img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
+### Hello, I'm Sangmin Kim!
 
+I am a master's student studying machine learning at Hanbat University Graduate School. i am interested in natural language processing and computer vision and devops.
 
+If you want to contact me, please send me an email!
 
-
-ㄴㅇㄹㄴㅇㄹㄴㅇㄹ
-
-
-
-
+<br><br><br><br>
 
 ## My Skill Set  
 <!-- <table><tr><td valign="top" width="50%"> -->
