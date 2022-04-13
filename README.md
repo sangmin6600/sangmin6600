@@ -18,10 +18,10 @@
 
 
 
-## My Skill Set  
+### My Skill Set  
 <!-- <table><tr><td valign="top" width="50%"> -->
   
-### Main
+#### Main
   
 <div align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -46,7 +46,7 @@
 </div>  
 <!-- </td><td valign="top" width="50%"> -->
 
-### I've used at least once
+#### I've used at least once
 <div align="left">
   <img src="https://img.shields.io/badge/c / c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -70,7 +70,7 @@
 
 
 
-## Github Stats  
+### Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sangmin6600&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
