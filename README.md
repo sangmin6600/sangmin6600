@@ -8,10 +8,10 @@
 ## Hi There  👋
 
 <a href="https://github.com/sangmin6600" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:kimsangmin9708@gmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Gmail-EA4335?&style=flat-square&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 ### Hello, I'm Sangmin Kim!
